@@ -1,0 +1,10 @@
+## week 1 
+# dot products for orthogonal vectos a*b= a1*b1+a2*b2
+# scalar projection: a*b/|a| = |b|cos(\theta)
+# vector projection: a*b/(|a||a|) * a = a*b / (a*a) *a 
+# a/|a| the unit vector 
+# linear independent basis vector no form of a = m*b+n*c for a,b,c being basis vector
+## matrix
+#[[1,2], [3,4]]*[[x][y]]  transform the basis vector[[x][y]] into the transformed vector and the matrix the transformation function 
+# there are may type of transformation: such as mirroring, stretching, compressing, rotating, inversion [flipping in every dimension]
+# 
